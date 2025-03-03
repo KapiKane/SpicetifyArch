@@ -12,7 +12,7 @@ This script automates the Spicetify installation process. Make sure you already 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/boudywho/spicetify-arch-installation-guide](https://github.com/KapiKane/SpicetifyArch.git)
+   git clone https://github.com/KapiKane/SpicetifyArch.git
    ```
 2. **Navigate to the directory:**
    ```bash
